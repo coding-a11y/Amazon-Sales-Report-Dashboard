@@ -1,5 +1,11 @@
 # Amazon-Sales-Report-Dashboard
 ### Dashboard Link : https://app.powerbi.com/links/Bx0PNZeGlK?ctid=a1a4ee51-99fa-437d-8ba7-d05192f6c077&pbi_source=linkShare&bookmarkGuid=e0b17b44-83e2-4b57-9279-c722148d51ce
+
+![image](https://github.com/user-attachments/assets/69b44c70-b10e-4a0f-8260-0191492468fd)
+
+![image](https://github.com/user-attachments/assets/064e0bc6-58b4-4cbc-a96a-29379c93c1fb)
+
+
 ## Problem Statement
 
 
